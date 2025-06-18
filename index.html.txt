@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Abubakar Gambo</title>
+</head>
+<body style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 2rem; line-height: 1.6;">
+
+  <!-- Profile Section -->
+  <div style="text-align: center;">
+    <img src="profile.jpg" alt="Abubakar Gambo" style="width: 200px; border-radius: 50%; margin-bottom: 1rem;" />
+    <h1>Abubakar Gambo</h1>
+    <p><a href="mailto:agmaisalati@gmail.com">agmaisalati@gmail.com</a></p>
+    <p>I’m an early-career academic researcher focused on advanced battery thermal management systems, particularly using phase change materials (PCMs), heat transfer modeling, and AI-driven prediction models. My work aims to improve safety, efficiency, and longevity of lithium-ion batteries under fast charging conditions.</p>
+    <p><a href="https://drive.google.com/file/d/16kNzvcTveT36KLl-DJi5j5Hvl988Zug5/view?usp=sharing" target="_blank">Download CV</a></p>
+
+    <!-- Research Profiles with Icons -->
+    <div style="margin-top: 1.5rem;">
+      <p>
+        <a href="https://www.scopus.com/authid/detail.uri?authorId=57219281767" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/elsevier.svg" alt="Scopus" style="width: 20px; vertical-align: middle;"> Scopus
+        </a> |
+        <a href="https://www.webofscience.com/wos/author/record/GYI-8618-2022" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/clarivate.svg" alt="ResearcherID" style="width: 20px; vertical-align: middle;"> ResearcherID
+        </a> |
+        <a href="https://scholar.google.com/citations?user=dQ128xEAAAAJ" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Google Scholar" style="width: 20px; vertical-align: middle;"> Google Scholar
+        </a> |
+        <a href="https://orcid.org/0000-0001-6511-7216" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg" alt="ORCID" style="width: 20px; vertical-align: middle;"> ORCID
+        </a>
+      </p>
+    </div>
+  </div>
+
+  <hr/>
+
+  <!-- Publications Section -->
+  <section>
+    <h2>Publications</h2>
+    <ul>
+      <li><strong>Mohammed A.G.</strong>, Hasini H., Elfeky K.E., Ali M.H., Wang Q. "Effective cooling solutions for fast charge/discharge of Li-ion battery system using metallic phase change material." <em>Results in Engineering 26 (2025) 105461</em>.</li>
+      <li>Elfeky K.E., Alshaer W.G., <strong>Mohammed, A.G.</strong>, Xin Z., Ge K., Wang Q. "Multi-objective optimization of melting temperature and latent heat of PCM for cascaded layer tank used in CSP plants." <em>Thermal Science and Engineering Progress 62 (2025) 103662</em>.</li>
+      <li><strong>Mohammed, A.G.</strong>, Mansyur N., Hasini H., Elfeky K.E., Wang Q., Hajara M.A., Om N.I. "Review on the ammonia-blend as an alternative fuel for micro gas turbine power generation." <em>International Journal of Hydrogen Energy 82 (2024) 428-447</em>.</li>
+      <li><strong>Mohammed, A.G.</strong>, Hasini H., Elfeky K.E., Wang Q., Hajara M.A., Om N.I "Cooling effectiveness enhancement of parallel air-cooled battery system through integration with multi-phase change materials." <em>International Journal of Thermal Sciences 201 (2024) 109030</em>.</li>
+      <li>Elfeky K.E., Hosny M., Khatwa S.A., <strong>Mohammed, A.G.</strong>, Wang Q. "CSP plants cooling technology: Techno-economic analysis, parametric study, and stacking ensemble learning forecasting." <em>Thermal Science and Engineering Progress 54 (2024) 102777</em>.</li>
+      <li>Elfeky K.E., Hosny M., <strong>Mohammed, A.G.</strong>, Chu W., Khatwa S.A., Wang Q. "Performance optimization of the parabolic trough power plant using dual-stage ensemble algorithm." <em>Applied Thermal Engineering 249 (2024) 123419</em>.</li>
+      <li><strong>Mohammed, A.G.</strong>, Elfeky K.E., Wang Q. "Rapid cooling effectiveness of Li-ion battery module with multiple phase change materials for plug-in hybrid electric vehicles." <em>International Journal of Thermal Sciences 185 (2023) 108040</em>.</li>
+      <li>Elfeky K.E., <strong>Mohammed, A.G.</strong>, Ahmed N., Wang Q. "Thermal performance of cascaded and combined sensible-latent heat storage tank under fluctuations in sunlight and electric demand." <em>Applied Thermal Engineering 229 (2023) 120575</em>.</li>
+      <li>Elfeky K.E., <strong>Mohammed, A.G.</strong>, Ahmed N., Wang Q. "Thermo-mechanical investigation of the multi-layer thermocline tank for parabolic trough power plants." <em>Energy 268 (2023) 126749</em>.</li>
+      <li><strong>Mohammed, A.G.</strong>, Elfeky K.E., Wang Q. "Recent advancement and enhanced battery performance using phase change materials based hybrid battery thermal management for electric vehicles." <em>Renewable and Sustainable Energy Reviews 154 (2022) 111759</em>.</li>
+      <li>Elfeky K.E., <strong>Mohammed, A.G.</strong>, Wang Q. "Thermo-economic evaluation of PCM layer thickness change on the performance of the hybrid heat storage tank for concentrating solar power plants." <em>Energy 253 (2022) 124128</em>.</li>
+      <li>Elfeky K.E., <strong>Mohammed, A.G.</strong>, Wang Q. "Influence of inlet temperature on the performance of cascade and hybrid storage tank for CSP plants." <em>Applied Thermal Engineering 206 (2022) 118098</em>.</li>
+      <li>Elfeky K.E., <strong>Mohammed, A.G.</strong>, Wang Q. "Performance prediction and optimization of a three-layer thermocline tank using the response surface method." <em>Computers & Chemical Engineering 165 (2022) 107930</em>.</li>
+      <li><strong>Mohammed, A.G.</strong>, Elfeky K.E., Wang Q. "Thermal management evaluation of Li-ion battery employing multiple phase change materials integrated thin heat sinks for hybrid electric vehicles." <em>Journal of Power Sources 516 (2021) 230680</em>.</li>
+      <li>Elfeky K.E., <strong>Mohammed, A.G.</strong>, Wang Q. "Cycle cut-off criterion effect on the performance of cascaded, sensible, combined sensible-latent heat storage tank for concentrating solar power plants." <em>Energy 230 (2021) 120771</em>.</li>
+      <li>Elfeky K.E., <strong>Mohammed, A.G.</strong>, Wang Q. "Performance analysis of an air rock thermocline TES tank for concentrated solar power plants using the coupled DEM-CFD approach." <em>Clean Technologies and Environmental Policy 24, 3-9 (2022)</em>.</li>
+      <li><strong>Mohammed, A.G.</strong>, Elfeky K.E., Wang Q. "Heat transfer and thermal Performance of Large-Format Li-ion Battery Modules Employing PCM with Airgap/Aluminum under Extreme Conditions." <em>Chemical Engineering Transactions 81 (2020) 391-396</em>.</li>
+      <li>Elfeky K.E., <strong>Mohammed, A.G.</strong>, Ahmed N., Lu L., Wang Q. "Thermal and economic evaluation of phase change material volume fraction for thermocline tank used in concentrating solar power plants." <em>Applied Energy 267 (2020) 115054</em>.</li>
+      <li>Elfeky K.E., <strong>Mohammed, A.G.</strong>, Wang Q. "Numerical Investigation of Cycle Cut-off Criterion on System Performance of Thermocline Tank." <em>Chemical Engineering Transactions 81 (2020) 499-504</em>.</li>
+      <li><strong>Mohammed, A.G.</strong>, Sevkat E., Muhammad A. "A mechanical behavior study of Filament wound composite leaf Springs." <em>Songklanakarin Journal of Science and Technology 42 (4) 2020</em>.</li>
+      <li><strong>Mohammed, A.G.</strong>, Ozgur G., Sevkat E. "Electrical resistance heating for deicing and snow melting applications: Experimental Study." <em>Cold Region Science and Technology 160 (2019) 128-138</em>.</li>
+    </ul>
+  </section>
+
+</body>
+</html>
